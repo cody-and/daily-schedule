@@ -14,7 +14,3 @@ This workday scheduler displays the work hours of 9 a.m. to 5 p.m. and dynamical
 - CSS: Used for styling the calendar and creating an attractive user interface.
 - JavaScript: Used for calendar logic and time functionality.
 - Local Storage: Used to store and retrieve data on the user's device.
-
-## URL To Live Page
-
-https://cody-and.github.io/daily-schedule/
