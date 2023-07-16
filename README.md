@@ -17,7 +17,7 @@ This workday scheduler displays the work hours of 9 a.m. to 5 p.m. and dynamical
 
 ## Screenshots
 
-![App Screenshot](./Develop/images/workdayschedule.png)
+(./images/workdayschedule.png)
 
 ## URL To Live Page
 
